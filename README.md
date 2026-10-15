@@ -2,7 +2,7 @@
 
 Turn any image into a jigsaw puzzle and play it in your browser.
 
-**Play it:** https://billjohk.github.io/puzzle_maker/
+**Play it:** https://billjo-makes.github.io/puzzle_maker/
 
 ![A 48-piece puzzle in progress, with the faint preview ghost on the board](docs/screenshot.png)
 
